@@ -7,6 +7,8 @@
 - Argument validation
 - Simple command-line interface
 
+![Video frame retrieval Cover](public/cover.png)
+
 ## Requirements
 
 - Python 3.8 or newer
