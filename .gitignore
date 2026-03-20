@@ -4,7 +4,10 @@ __pycache__/
 # Virtual environments
 .venv
 
+# Input files
+*.mp4
+*.mov
+
 # Output directory
 output/
 *.png
-*.svg
